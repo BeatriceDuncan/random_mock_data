@@ -1,73 +1,71 @@
-{
-  "roles": [
-    { "role": "Business Consultant - Intermediate", "max_bill_rate": 95.0 },
-    { "role": "Business Consultant - Senior", "max_bill_rate": 125.0 },
-    {
-      "role": "Business Intelligence Analyst - Intermediate",
-      "max_bill_rate": 115.0
-    },
-    {
-      "role": "Communications Specialist - Intermediate",
-      "max_bill_rate": 80.0
-    },
-    {
-      "role": "Communications Specialist - Senior",
-      "max_bill_rate": 100.0
-    },
-    {
-      "role": "Organizational Change Manager - Junior",
-      "max_bill_rate": 100.0
-    },
-    {
-      "role": "Organizational Change Manager - Intermediate",
-      "max_bill_rate": 115.0
-    },
-    {
-      "role": "Organizational Change Manager - Senior",
-      "max_bill_rate": 140.0
-    },
-    { "role": "Trainer - Junior", "max_bill_rate": 70.0 },
-    { "role": "Trainer - Intermediate", "max_bill_rate": 90.0 },
-    { "role": "Trainer - Senior", "max_bill_rate": 120.0 },
-    { "role": "Application Analyst - Junior", "max_bill_rate": 80.0 },
-    { "role": "Application Analyst - Intermediate", "max_bill_rate": 90.0 },
-    { "role": "Application Analyst - Senior", "max_bill_rate": 110.0 },
-    {
-      "role": "Application Architect - Intermediate",
-      "max_bill_rate": 130.0
-    },
-    { "role": "Application Architect - Senior", "max_bill_rate": 150.0 },
-    { "role": "Application Developer - Junior", "max_bill_rate": 80.0 },
-    {
-      "role": "Application Developer - Intermediate",
-      "max_bill_rate": 95.0
-    },
-    { "role": "Application Developer - Senior", "max_bill_rate": 125.0 },
-    { "role": "Application Security Specialist", "max_bill_rate": 140.0 },
-    { "role": "Data Analytics Specialist", "max_bill_rate": 120.0 },
-    { "role": "Data Architect - Intermediate", "max_bill_rate": 110.0 },
-    { "role": "Data Architect - Senior", "max_bill_rate": 140.0 },
-    { "role": "Database Administrator - Junior", "max_bill_rate": 85.0 },
-    {
-      "role": "Database Administrator - Intermediate",
-      "max_bill_rate": 95.0
-    },
-    { "role": "Database Administrator - Senior", "max_bill_rate": 110.0 },
-    {
-      "role": "Enterprise Architect - Intermediate",
-      "max_bill_rate": 135.0
-    },
-    { "role": "Enterprise Architect - Senior", "max_bill_rate": 160.0 },
-    { "role": "Front End Designer - Junior", "max_bill_rate": 90.0 },
-    { "role": "Front End Designer - Intermediate", "max_bill_rate": 110.0 },
-    { "role": "Front End Designer - Senior", "max_bill_rate": 140.0 },
-    { "role": "Full Stack Developer - Junior", "max_bill_rate": 90.0 },
-    {
-      "role": "Full Stack Developer - Intermediate",
-      "max_bill_rate": 105.0
-    },
-    { "role": "Full Stack Developer - Senior", "max_bill_rate": 130.0 },
-    { "role": "Help Desk Analyst - Junior", "max_bill_rate": 55.0 },
-    { "role": "Help Desk Analyst - Intermediate", "max_bill_rate": 65.0 }
-  ]
-}
+[
+  { "role": "Business Consultant - Intermediate", "max_bill_rate": 95.0 },
+  { "role": "Business Consultant - Senior", "max_bill_rate": 125.0 },
+  {
+    "role": "Business Intelligence Analyst - Intermediate",
+    "max_bill_rate": 115.0
+  },
+  {
+    "role": "Communications Specialist - Intermediate",
+    "max_bill_rate": 80.0
+  },
+  {
+    "role": "Communications Specialist - Senior",
+    "max_bill_rate": 100.0
+  },
+  {
+    "role": "Organizational Change Manager - Junior",
+    "max_bill_rate": 100.0
+  },
+  {
+    "role": "Organizational Change Manager - Intermediate",
+    "max_bill_rate": 115.0
+  },
+  {
+    "role": "Organizational Change Manager - Senior",
+    "max_bill_rate": 140.0
+  },
+  { "role": "Trainer - Junior", "max_bill_rate": 70.0 },
+  { "role": "Trainer - Intermediate", "max_bill_rate": 90.0 },
+  { "role": "Trainer - Senior", "max_bill_rate": 120.0 },
+  { "role": "Application Analyst - Junior", "max_bill_rate": 80.0 },
+  { "role": "Application Analyst - Intermediate", "max_bill_rate": 90.0 },
+  { "role": "Application Analyst - Senior", "max_bill_rate": 110.0 },
+  {
+    "role": "Application Architect - Intermediate",
+    "max_bill_rate": 130.0
+  },
+  { "role": "Application Architect - Senior", "max_bill_rate": 150.0 },
+  { "role": "Application Developer - Junior", "max_bill_rate": 80.0 },
+  {
+    "role": "Application Developer - Intermediate",
+    "max_bill_rate": 95.0
+  },
+  { "role": "Application Developer - Senior", "max_bill_rate": 125.0 },
+  { "role": "Application Security Specialist", "max_bill_rate": 140.0 },
+  { "role": "Data Analytics Specialist", "max_bill_rate": 120.0 },
+  { "role": "Data Architect - Intermediate", "max_bill_rate": 110.0 },
+  { "role": "Data Architect - Senior", "max_bill_rate": 140.0 },
+  { "role": "Database Administrator - Junior", "max_bill_rate": 85.0 },
+  {
+    "role": "Database Administrator - Intermediate",
+    "max_bill_rate": 95.0
+  },
+  { "role": "Database Administrator - Senior", "max_bill_rate": 110.0 },
+  {
+    "role": "Enterprise Architect - Intermediate",
+    "max_bill_rate": 135.0
+  },
+  { "role": "Enterprise Architect - Senior", "max_bill_rate": 160.0 },
+  { "role": "Front End Designer - Junior", "max_bill_rate": 90.0 },
+  { "role": "Front End Designer - Intermediate", "max_bill_rate": 110.0 },
+  { "role": "Front End Designer - Senior", "max_bill_rate": 140.0 },
+  { "role": "Full Stack Developer - Junior", "max_bill_rate": 90.0 },
+  {
+    "role": "Full Stack Developer - Intermediate",
+    "max_bill_rate": 105.0
+  },
+  { "role": "Full Stack Developer - Senior", "max_bill_rate": 130.0 },
+  { "role": "Help Desk Analyst - Junior", "max_bill_rate": 55.0 },
+  { "role": "Help Desk Analyst - Intermediate", "max_bill_rate": 65.0 }
+]
