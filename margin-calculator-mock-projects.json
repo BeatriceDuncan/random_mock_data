@@ -1,0 +1,98 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "projectName": "Empty project",
+      "projectStatus": "",
+      "paymentStatus": "",
+      "startDate": "",
+      "endDate": "",
+      "totalHours": 0,
+      "totalBilling": 0,
+      "totalCogs": 0,
+      "grossMargin": 0,
+      "hoursWeeKAverage": 0,
+      "hourlyBillingAverage": 0,
+      "hourlyCogsAverage": 0,
+      "weeklyBillingTeam": 0,
+      "totalProfit": 0,
+      "resources": [
+        {
+          "id": 1,
+          "role": "Empty role",
+          "maxBillRate": 0,
+          "targetHourlyRate": 0,
+          "totalHours": 0,
+          "targetCogs": 0,
+          "totalOverhead": 0,
+          "totalBillings": 0,
+          "totalCosts": 0,
+          "hourlyMarginPercentage": 0,
+          "hourlyMarginGross": 0,
+          "totalMargin": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "projectName": "Project Ardvark",
+      "projectStatus": "",
+      "paymentStatus": "",
+      "startDate": "",
+      "endDate": "",
+      "totalHours": 0,
+      "totalBilling": 0,
+      "totalCogs": 0,
+      "grossMargin": 0,
+      "hoursWeeKAverage": 0,
+      "hourlyBillingAverage": 0,
+      "hourlyCogsAverage": 0,
+      "weeklyBillingTeam": 0,
+      "totalProfit": 0,
+      "resources": [
+        {
+          "id": 1,
+          "role": "Business Consultant - Intermediate",
+          "maxBillRate": 95,
+          "targetHourlyRate": 0,
+          "totalHours": 0,
+          "targetCogs": 0,
+          "totalOverhead": 0,
+          "totalBillings": 0,
+          "totalCosts": 0,
+          "hourlyMarginPercentage": 0,
+          "hourlyMarginGross": 0,
+          "totalMargin": 0
+        },
+        {
+          "id": 2,
+          "role": "Trainer - Junior",
+          "maxBillRate": 70,
+          "targetHourlyRate": 0,
+          "totalHours": 0,
+          "targetCogs": 0,
+          "totalOverhead": 0,
+          "totalBillings": 0,
+          "totalCosts": 0,
+          "hourlyMarginPercentage": 0,
+          "hourlyMarginGross": 0,
+          "totalMargin": 0
+        },
+        {
+          "id": 3,
+          "role": "Application Analyst - Junior",
+          "maxBillRate": 80,
+          "targetHourlyRate": 0,
+          "totalHours": 0,
+          "targetCogs": 0,
+          "totalOverhead": 0,
+          "totalBillings": 0,
+          "totalCosts": 0,
+          "hourlyMarginPercentage": 0,
+          "hourlyMarginGross": 0,
+          "totalMargin": 0
+        }
+      ]
+    }
+  ]
+}
